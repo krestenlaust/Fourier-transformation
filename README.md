@@ -1,0 +1,1 @@
+If you're interested in learning more about the project, feel free to read my [assignment](Final assignment - Danish.pdf) or look at the [presentation](Assignment exam presentation.pptx) I prepared for the exam. The text is embedded in the documents, and should be OCR friendly and can thus be translated.
